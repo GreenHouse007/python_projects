@@ -1,0 +1,14 @@
+question_data = [
+        {"type":"boolean","difficulty":"easy","category":"Entertainment: Film","question":"Samuel L. Jackson had the words, 'Bad Motherf*cker'; in-scripted on his lightsaber during the filming of Star Wars.","correct_answer":"True","incorrect_answers":["False"]},
+        {"type":"boolean","difficulty":"easy","category":"Entertainment: Film","question":"Leonardo DiCaprio won an Oscar for Best Actor in 2004's 'The Aviator'.","correct_answer":"False","incorrect_answers":["True"]},
+        {"type":"boolean","difficulty":"easy","category":"Entertainment: Film","question":"George Lucas directed the entire original Star Wars trilogy.","correct_answer":"False","incorrect_answers":["True"]},
+        {"type":"boolean","difficulty":"easy","category":"Entertainment: Film","question":"The word 'Inception' came from the 2010 blockbuster hit 'Inception'.","correct_answer":"False","incorrect_answers":["True"]},
+        {"type":"boolean","difficulty":"easy","category":"Entertainment: Film","question":"In Alfred Hitchcock's film 'Psycho'; it is said he used chocolate syrup to simulate the blood in the famous shower scene from ","correct_answer":"True","incorrect_answers":["False"]},
+        {"type":"boolean","difficulty":"easy","category":"Entertainment: Film","question":"Shaquille O'Neal appeared in the 1997 film 'Space Jam'.","correct_answer":"False","incorrect_answers":["True"]},
+        {"type":"boolean","difficulty":"easy","category":"Entertainment: Film","question":"'Foodfight!' earned less than $80,000 at box office.","correct_answer":"True","incorrect_answers":["False"]},
+        {"type":"boolean","difficulty":"easy","category":"Entertainment: Film","question":"Actor Tommy Chong served prison time.","correct_answer":"True","incorrect_answers":["False"]},
+        {"type":"boolean","difficulty":"easy","category":"Entertainment: Film","question":"In the original Star Wars trilogy, Alec Guinness provided the voice for Darth Vader.","correct_answer":"False","incorrect_answers":["True"]},
+        {"type":"boolean","difficulty":"easy","category":"Entertainment: Film","question":"Ewan McGregor did not know the name of the second prequel film of Star Wars during and after filming.","correct_answer":"True","incorrect_answers":["False"]},
+        {"type":"boolean","difficulty":"easy","category":"Entertainment: Film","question":"Matt Damon played an astronaut stranded on an extraterrestrial planet in both of the movies Interstellar and The Martian.","correct_answer":"True","incorrect_answers":["False"]},
+        {"type":"boolean","difficulty":"easy","category":"Entertainment: Film","question":"Han Solo's co-pilot and best friend, 'Chewbacca', is an Ewok.","correct_answer":"False","incorrect_answers":["True"]}
+]
