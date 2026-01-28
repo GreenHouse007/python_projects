@@ -1,4 +1,9 @@
-100 days of Python challenge.
 
-First 10 days - Completed\n 
-Days 11-20 - Completed 
+---
+**100 Days of Python Challenge.**
+
+First 10 days - Completed  
+Days 11-20 - Completed  
+Days 22-30 - Completed
+
+---
