@@ -2,3 +2,4 @@
 venv/
 __pycache__/
 week_3/day28/dist/
+.env
