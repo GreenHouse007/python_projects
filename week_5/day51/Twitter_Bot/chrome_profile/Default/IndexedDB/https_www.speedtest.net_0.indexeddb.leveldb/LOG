@@ -1,0 +1,26 @@
+2026/02/26-10:07:11.843 9e6c Reusing MANIFEST C:\Users\adven\Documents\python-class\python_projects\week_5\day51\Twitter_Bot\chrome_profile\Default\IndexedDB\https_www.speedtest.net_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/26-10:07:11.843 9e6c Recovering log #16
+2026/02/26-10:07:11.844 9e6c Reusing old log C:\Users\adven\Documents\python-class\python_projects\week_5\day51\Twitter_Bot\chrome_profile\Default\IndexedDB\https_www.speedtest.net_0.indexeddb.leveldb/000016.log 
+2026/02/26-10:07:11.844 9e6c Delete type=2 #14
+2026/02/26-10:07:11.881 3270 Level-0 table #21: started
+2026/02/26-10:07:11.884 3270 Level-0 table #21: 8887 bytes OK
+2026/02/26-10:07:11.888 3270 Delete type=0 #16
+2026/02/26-10:07:11.889 3270 Manual compaction at level-0 from '\x00\x0c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0c\x00\x00\x05' @ 1908 : 1
+2026/02/26-10:07:11.889 3270 Compacting 1@0 + 1@1 files
+2026/02/26-10:07:11.892 3270 Generated table #22@0: 385 keys, 7341 bytes
+2026/02/26-10:07:11.893 3270 Compacted 1@0 + 1@1 files => 7341 bytes
+2026/02/26-10:07:11.894 3270 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/26-10:07:11.894 3270 Delete type=2 #21
+2026/02/26-10:07:11.895 9e6c Manual compaction at level-0 from '\x00\x0c\x00\x00\x05' @ 1908 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/02/26-10:07:11.962 3270 Level-0 table #24: started
+2026/02/26-10:07:11.965 3270 Level-0 table #24: 6094 bytes OK
+2026/02/26-10:07:11.967 3270 Delete type=2 #18
+2026/02/26-10:07:11.967 3270 Delete type=0 #20
+2026/02/26-10:07:11.968 9e6c Manual compaction at level-0 from '\x00\x0d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0e\x00\x00\xc8\x18\x00u\x00s\x00e\x00r\x00_\x00U\x00n\x00i\x00v\x00S\x00p\x00e\x00e\x00d\x00T\x00e\x00s\x00t\x00R\x00e\x00s\x00u\x00l\x00t' @ 2079 : 1
+2026/02/26-10:07:11.968 9e6c Compacting 1@0 + 1@1 files
+2026/02/26-10:07:11.971 9e6c Generated table #25@0: 440 keys, 7803 bytes
+2026/02/26-10:07:11.971 9e6c Compacted 1@0 + 1@1 files => 7803 bytes
+2026/02/26-10:07:11.973 9e6c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/26-10:07:11.974 9e6c Delete type=2 #24
+2026/02/26-10:07:11.974 9e6c Manual compaction at level-0 from '\x00\x0e\x00\x00\xc8\x18\x00u\x00s\x00e\x00r\x00_\x00U\x00n\x00i\x00v\x00S\x00p\x00e\x00e\x00d\x00T\x00e\x00s\x00t\x00R\x00e\x00s\x00u\x00l\x00t' @ 2079 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/02/26-10:07:12.116 3270 Manual compaction at level-0 from '\x00\x0e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at (end)
